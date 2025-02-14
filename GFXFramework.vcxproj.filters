@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GameConstants.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GameInit.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GreenSquares.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Objects2D.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\ObjectsGame.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Plants.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Plants_VS_Zombies.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\PointScore.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Projectiles.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\RenderScene.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Zombies.cpp">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Color.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Default.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\MVP.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\MVP.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Model.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Normals.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Screen.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Screen.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Simple.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Text.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\Text.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\assets\shaders\VertexColor.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GameConstants.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GameInit.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\GreenSquares.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Objects2D.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\ObjectsGame.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Plants.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Plants_VS_Zombies.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\PointScore.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Projectiles.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\RenderScene.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Transforms2D.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\Plants_VS_Zombies\Zombies.h">
+      <Filter>src\Plants_VS_Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\plants-vs-zombies\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\plants-vs-zombies\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{85843B4A-DF97-3ACE-9E97-259A1E95EBB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\shaders">
+      <UniqueIdentifier>{4E4F0CE5-154A-3125-9867-5A1C0177411B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{9DDE912A-04AE-331D-9949-904FBEC3E5F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Plants_VS_Zombies">
+      <UniqueIdentifier>{19797FCC-6B5C-3F60-8580-AF8CFD46CAC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{206528C2-228C-3F15-A387-A28D26B2B6DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{05E6F7D8-33E8-325C-8E4B-A944567B03AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{95250BDD-3AFD-3911-833A-6207892082FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{5796BF10-8035-3A06-AE96-5BC5746E0CCF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{2C27C3DF-027E-32DD-AA0D-491EA7C3B950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{8F5274B9-8527-3122-B4ED-792BDEB2C70F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

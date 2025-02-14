@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\plants-vs-zombies\CMakeFiles\9f2ea042fcdc65bb38f7973f0c7149f4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7EEE8AA8-E273-32C2-B4DF-F4066A4DEE4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
